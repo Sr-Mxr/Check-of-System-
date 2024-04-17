@@ -1,8 +1,8 @@
-# CHECK OF SYSTEM 
+# CHECK 
 # by:mxr
 
 Description
-CHECK OF SYSTEM is a command-line tool designed to perform a detailed analysis of the system for potential anomalies and security risks. It provides an interactive interface that allows users to select from various options to check different aspects of the system, including resource consumption, network connections, unusual processes, and more.
+CHECK  is a command-line tool designed to perform a detailed analysis of the system for potential anomalies and security risks. It provides an interactive interface that allows users to select from various options to check different aspects of the system, including resource consumption, network connections, unusual processes, and more.
 
 ## Features
 -Resource consumption analysis.
@@ -25,7 +25,7 @@ bash
 ## Copy code
 
 ```bash
-./check_of_system.sh
+./check.sh
 ```
 Select the desired option from the interactive menu by entering the corresponding number and pressing Enter.
 Observe the results provided by the tool to obtain information about the system's status.
